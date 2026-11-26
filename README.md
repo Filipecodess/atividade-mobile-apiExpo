@@ -73,9 +73,6 @@ pokeatlas-javascript/
 ├── tests/
 │   └── pokeapi.test.mjs              Testes automatizados
 ├── README.md                         Como instalar, testar e publicar
-├── ESPECIFICACAO_TECNICA.md         Requisitos e fluxo técnico
-├── PROMPT_CLAUDE.md                 Instruções para o Claude
-└── CHECKLIST_ENTREGA.md             Verificações finais do trabalho
 ```
 
 **Importante:** não existem arquivos `.ts`, `.tsx`, `tsconfig.json` ou pacotes do TypeScript.
